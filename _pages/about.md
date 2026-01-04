@@ -16,6 +16,7 @@ I am a first-year PhD student at The Hong Kong University of Science and Technol
 ## Education
 
 - **Ph.D. in Robotics and Autonomous Systems** - The Hong Kong University of Science and Technology (Guangzhou), Thrust of Robotics and Autonomous Systems  
+  *Advisor: Prof. Qiang Nie*  
   *Sep. 2025 - Present*
 
 - **M.S. in Medical Robotics** - Shanghai Jiao Tong University, Institute of Medical Robotics  
