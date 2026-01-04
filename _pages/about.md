@@ -11,7 +11,7 @@ redirect_from:
 
 ## About Me
 
-I am a first-year PhD student at The Hong Kong University of Science and Technology (Guangzhou), majoring in Robotics and Autonomous Systems (ROAS) in the Thrust of Robotics and Autonomous Systems. My research interests focus on embodied intelligence, embodied perception, and multimodal large models.
+I am a first-year PhD student at The Hong Kong University of Science and Technology (Guangzhou), majoring in Robotics and Autonomous Systems (ROAS) in the Thrust of Robotics and Autonomous Systems. My research interests focus on **embodied intelligence**, **embodied perception**, and **multimodal large models**.
 
 ## Education
 
@@ -19,7 +19,7 @@ I am a first-year PhD student at The Hong Kong University of Science and Technol
   *Advisor: Prof. Qiang Nie*  
   *Sep. 2025 - Present*
 
-- **M.S. in Medical Robotics** - Shanghai Jiao Tong University, Institute of Medical Robotics  
+- **M.S. in Biomedical Engineering** - Shanghai Jiao Tong University, Institute of Medical Robotics  
   *Advisor: Prof. Dahong Qian*  
   *Sep. 2021 - Mar. 2025*
 
@@ -28,9 +28,16 @@ I am a first-year PhD student at The Hong Kong University of Science and Technol
 
 ## Research Interests
 
-- **Embodied Intelligence** - Developing intelligent systems that can interact with the physical world through embodied agents
-- **Embodied Perception** - Exploring how agents perceive and understand their environment through embodied interactions
-- **Multimodal Large Models** - Research on large-scale models that integrate multiple modalities (vision, language, audio, etc.) for embodied AI applications
+My ultimate research goal is to develop a **robotic brain** that enables intelligent robots to understand, reason, and act in complex real-world environments. My current research focuses on the following directions:
+
+### Direction 1: Long-Horizon Hierarchical Planning for Vision-Language Tasks (VLT)
+
+**Research Focus**: Exploring how to combine the semantic understanding capabilities of large language models (LLMs) / vision-language models (VLMs) with hierarchical task planning frameworks for robots, to solve complex, multi-step long-horizon task instruction decomposition and execution problems.
+
+**Key Research Areas**:
+- **Ambiguity Handling in Instructions**: Developing methods to interpret and disambiguate vague or ambiguous natural language instructions
+- **Dynamic Task Replanning**: Enabling robots to adapt and replan tasks in dynamic environments when initial plans become infeasible
+- **Learning Planning Strategies from Interaction**: Investigating how robots can learn and improve their planning strategies through interaction with the environment and human feedback
 
 ## Contact
 
