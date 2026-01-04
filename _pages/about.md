@@ -11,7 +11,7 @@ redirect_from:
 
 ## About Me
 
-I am a first-year PhD student at The Hong Kong University of Science and Technology (Guangzhou), majoring in Robotics and Autonomous Systems (ROAS) in the Thrust of Robotics and Autonomous Systems. My research interests focus on medical robotics, computer vision, and intelligent systems.
+I am a first-year PhD student at The Hong Kong University of Science and Technology (Guangzhou), majoring in Robotics and Autonomous Systems (ROAS) in the Thrust of Robotics and Autonomous Systems. My research interests focus on embodied intelligence, embodied perception, and multimodal large models.
 
 ## Education
 
@@ -28,10 +28,9 @@ I am a first-year PhD student at The Hong Kong University of Science and Technol
 
 ## Research Interests
 
-- Medical Robotics
-- Computer Vision
-- Intelligent Systems
-- Human-Robot Interaction
+- **Embodied Intelligence** - Developing intelligent systems that can interact with the physical world through embodied agents
+- **Embodied Perception** - Exploring how agents perceive and understand their environment through embodied interactions
+- **Multimodal Large Models** - Research on large-scale models that integrate multiple modalities (vision, language, audio, etc.) for embodied AI applications
 
 ## Contact
 
