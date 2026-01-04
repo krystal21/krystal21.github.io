@@ -34,10 +34,6 @@ My ultimate research goal is to develop a **robotic brain** that enables intelli
 
 **Research Focus**: Exploring how to combine the semantic understanding capabilities of large language models (LLMs) / vision-language models (VLMs) with hierarchical task planning frameworks for robots, to solve complex, multi-step long-horizon task instruction decomposition and execution problems.
 
-**Key Research Areas**:
-- **Ambiguity Handling in Instructions**: Developing methods to interpret and disambiguate vague or ambiguous natural language instructions
-- **Dynamic Task Replanning**: Enabling robots to adapt and replan tasks in dynamic environments when initial plans become infeasible
-- **Learning Planning Strategies from Interaction**: Investigating how robots can learn and improve their planning strategies through interaction with the environment and human feedback
 
 ## Contact
 
