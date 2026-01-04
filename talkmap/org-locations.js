@@ -1,2 +1,1 @@
-var addressPoints = [
-];
+var addressPoints = [];
