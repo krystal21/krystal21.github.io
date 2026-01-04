@@ -26,5 +26,16 @@ redirect_from:
 
 联系方式
 ======
-- 邮箱：[您的邮箱]
+- 邮箱：[您的邮箱](mailto:your.email@example.com) - 点击可直接发送邮件
 - 地址：[您的地址]
+- 个人网站：[网站名称](https://yourwebsite.com)
+- Google Scholar：[我的学术档案](https://scholar.google.com/citations?user=YOUR_ID)
+- ORCID：[我的ORCID](https://orcid.org/0000-0000-0000-0000)
+- GitHub：[我的GitHub](https://github.com/yourusername)
+
+快速链接
+======
+- [我的出版物](/publications/) - 查看所有发表论文
+- [我的演讲](/talks/) - 查看所有学术报告
+- [我的简历](/cv/) - 下载完整简历
+- [教学](/teaching/) - 查看教学经历

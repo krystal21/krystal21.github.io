@@ -1,5 +1,10 @@
-# Academic Pages
-**Academic Pages is a GitHub Pages template for personal and professional portfolio-oriented websites.**
+# 个人学术主页
+
+🌐 **访问网站：** [https://krystal21.github.io](https://krystal21.github.io)
+
+---
+
+> 基于 Academic Pages 模板构建的个人学术主页
 
 ![Academic Pages template example](images/themes/homepage-light.png "Academic Pages template example")
 
